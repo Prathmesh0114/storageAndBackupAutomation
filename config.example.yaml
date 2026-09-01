@@ -1,0 +1,16 @@
+netapp:
+  host: "10.10.10.10"
+  username: "admin"
+  password: "CHANGE_ME"
+
+pure:
+  host: "10.10.10.20"
+  api_token: "CHANGE_ME"
+
+brocade:
+  host: "10.10.10.30"
+  username: "admin"
+  password: "CHANGE_ME"
+
+veeam:
+  host: "10.10.10.40"
